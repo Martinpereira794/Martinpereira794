@@ -1,6 +1,6 @@
+<div align="center">
 ## Hola, ¡soy <a href="https://www.linkedin.com/in/martin-pereira-39009b227/" target="_blank">Martin!</a> 👋
-<!--
-**Martinpereira794/Martinpereira794** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
 Here are some ideas to get you started:
 
