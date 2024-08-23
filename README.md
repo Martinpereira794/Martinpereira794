@@ -2,7 +2,7 @@
   <h1>Hola, ¡soy <a href="https://www.linkedin.com/in/martin-pereira-39009b227/" target="_blank">Martin!</a> 👋</h1>
 </div>
 
-<h1>Soy un desarrollador Full Stack Java. Actualmente, estoy ampliando mis habilidades en <strong>Spring Boot</strong>, <strong>Spring Security</strong>, y <strong>microservicios</strong>. Mi pasión por la programación y la tecnología me impulsa a buscar siempre nuevos retos y oportunidades para aprender y crecer.</p>
+<h2>Soy un desarrollador Full Stack Java. Actualmente, estoy ampliando mis habilidades en <strong>Spring Boot</strong>, <strong>Spring Security</strong>, y <strong>microservicios</strong>. Mi pasión por la programación y la tecnología me impulsa a buscar siempre nuevos retos y oportunidades para aprender y crecer.</h2>
 
 <h2>🛠 Habilidades</h2>
 <ul>
