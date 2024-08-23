@@ -6,7 +6,7 @@
 
 <h2>🛠 Habilidades</h2>
 <ul>
-  <li><strong>Lenguajes:</strong> Java, HTML, CSS, JavaScript</li>
+  <li><strong>Lenguajes:</strong> Java, SQL, CSS, HTML, JavaScript</li>
   <li><strong>Frameworks:</strong> Spring Boot, Spring Security<b>(Aprendiendo)</b>, Bootstrap</li>
   <li><strong>Herramientas:</strong> Spring Tool Suite (STS), Git, Postman</li>
 </ul>
