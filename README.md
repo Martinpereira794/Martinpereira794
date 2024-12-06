@@ -6,9 +6,9 @@
 
 <h2>🛠 Habilidades</h2>
 <ul>
-  <li><strong>Lenguajes:</strong> Java, SQL, CSS, HTML, JavaScript</li>
-  <li><strong>Frameworks:</strong> Spring Boot, Spring Security<b>(Aprendiendo)</b>, Bootstrap</li>
-  <li><strong>Herramientas:</strong> Spring Tool Suite (STS), Git, Postman</li>
+  <li><strong>Lenguajes:</strong> Java, SQL, CSS, HTML, JavaScript, React</li>
+  <li><strong>Frameworks:</strong> Spring Boot, Spring Security, Bootstrap, Material UI</li>
+  <li><strong>Herramientas:</strong> Spring Tool Suite (STS), Git, Postman, Jira, Scrum</li>
 </ul>
 
 <h2>📚 Proyectos Destacados</h2>
